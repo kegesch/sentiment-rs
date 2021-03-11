@@ -1,11 +1,11 @@
 [package]
 name = "sentiment"
 version = "0.1.1"
-authors = ["shockham <samuel.hockham@gmail.com>"]
+authors = ["shockham <samuel.hockham@gmail.com>", "kegesch <mail@yonny.de>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/mount-research/sentiment"
-homepage = "https://github.com/mount-research/sentiment"
+repository = "https://github.com/kegesch/sentiment-rs"
+homepage = "https://github.com/kegesch/sentiment-rs"
 documentation = "https://docs.rs/sentiment"
 description = "Sentiment analysis tool"
 
