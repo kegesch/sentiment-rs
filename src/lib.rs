@@ -9,7 +9,7 @@ use std::borrow::Borrow;
 use std::str;
 
 // include the json in the bin
-const AFFIN: &[u8; 32811] = include_bytes!("./afinn165.json");
+const AFFIN: &[u8; 59762] = include_bytes!("./afinn165.json");
 
 lazy_static! {
     static ref AFFIN_VALUE: Value = {
